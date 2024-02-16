@@ -1,0 +1,12 @@
+[submodule "library/argparse"]
+	path = library/argparse
+	url = https://github.com/p-ranav/argparse
+[submodule "library/spdlog"]
+	path = library/spdlog
+	url = https://github.com/gabime/spdlog
+[submodule "library/asio"]
+	path = library/asio
+	url = https://github.com/chriskohlhoff/asio
+[submodule "library/Crow"]
+	path = library/Crow
+	url = https://github.com/CrowCpp/Crow
